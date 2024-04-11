@@ -17,3 +17,24 @@ This web application provides interactive visualizations to explore the dataset,
 
 1. Clone the repository:
 git clone <repository-url>
+
+2. Install the required dependencies:
+#### Dependencies:
+
+- Streamlit
+- Pandas
+- Pandas-Bokeh
+- Scikit-learn
+
+3. Run the Streamlit application: Use the code in the terminal
+
+```streamlit run yourfilename.py```
+
+4. Open the provided URL in your web browser to access the application.
+
+## Limitations
+
+1. Data Preprocessing: Handling missing values, outliers, and categorical variables requires careful preprocessing steps to ensure accurate and meaningful results.
+2. Chart Overlapping: As mentioned, when using Streamlit's sidebar for user input, both charts may overlap each other due to the fixed layout.
+3. Performance Optimization: Streamlit's caching features can help improve performance by avoiding redundant computations and data reloads.
+
