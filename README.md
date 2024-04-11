@@ -16,7 +16,7 @@ This web application provides interactive visualizations to explore the dataset,
 ## Usage
 
 1. Clone the repository:
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Vinothinichandrakrishnan/Unveiling_vinecultural_secrets/blob/Boss/README.md)>
 
 2. Install the required dependencies:
    #### Dependencies:
