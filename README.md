@@ -32,6 +32,10 @@ git clone <repository-url>
 
 4. Open the provided URL in your web browser to access the application.
 
+5. My streamlit URL:
+     Local URL: http://localhost:8501
+  Network URL: http://172.16.6.83:8501 
+
 ## Limitations
 
 1. Data Preprocessing: Handling missing values, outliers, and categorical variables requires careful preprocessing steps to ensure accurate and meaningful results.
