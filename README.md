@@ -19,12 +19,12 @@ This web application provides interactive visualizations to explore the dataset,
 git clone <repository-url>
 
 2. Install the required dependencies:
-#### Dependencies:
+   #### Dependencies:
 
-- Streamlit
-- Pandas
-- Pandas-Bokeh
-- Scikit-learn
+   - Streamlit
+   - Pandas
+   - Pandas-Bokeh
+   - Scikit-learn
 
 3. Run the Streamlit application: Use the code in the terminal
 
